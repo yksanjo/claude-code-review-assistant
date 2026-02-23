@@ -1,5 +1,12 @@
 # claude-code-review-assistant
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/claude-code-review-assistant/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/claude-code-review-assistant/actions)
+![License](https://img.shields.io/github/license/yksanjo/claude-code-review-assistant)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/claude-code-review-assistant)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/claude-code-review-assistant)
+
 ## Detailed Description
 
 claude-code-review-assistant is maintained as an industry-grade software project with production-ready engineering practices.  
